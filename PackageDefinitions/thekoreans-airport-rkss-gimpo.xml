@@ -29,7 +29,7 @@
 			<OutputDir>MaterialLibs\airport-rkss-gimpo\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="mymodellib">
-			<Type Version="0">ModelLib</Type>
+			<Type Version="1">ModelLib</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
