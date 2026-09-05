@@ -2,13 +2,13 @@
   "content": [
     {
       "path": "bglindex.bout",
-      "size": 1407,
-      "date": 134330604470017058
+      "size": 1203,
+      "date": 134330757340017058
     },
     {
       "path": "contentinfo/thekoreans-airport-rkss-gimpo/contenthistory.json",
       "size": 153,
-      "date": 134330599840000000
+      "date": 134330757340000000
     },
     {
       "path": "contentinfo/thekoreans-airport-rkss-gimpo/thumbnail.jpg",
@@ -37,13 +37,13 @@
     },
     {
       "path": "scenery/airport-rkss-gimpo/modellib/modellib.bgl",
-      "size": 10148,
+      "size": 1734,
       "date": 134330604470000006
     },
     {
       "path": "scenery/airport-rkss-gimpo/scenery/rkss.bgl",
-      "size": 289696,
-      "date": 134330599840000006
+      "size": 289820,
+      "date": 134330757340000006
     }
   ]
 }
