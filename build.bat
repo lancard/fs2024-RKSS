@@ -1,0 +1,1 @@
+"c:\MSFS 2024 SDK\Tools\bin\fspackagetool.exe" RKSS.xml
