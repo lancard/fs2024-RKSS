@@ -10,9 +10,10 @@
 		<VisibleInStore>false</VisibleInStore>
 		<CanBeReferenced>false</CanBeReferenced>
 	</Flags>
+	<PackageOrderHint>GENERIC_AIRPORT_PATCH</PackageOrderHint>
 	<AssetGroups>
 		<AssetGroup Name="ContentInfo">
-			<Type>ContentInfo</Type>
+			<Type Version="0">ContentInfo</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
@@ -20,7 +21,7 @@
 			<OutputDir>ContentInfo\thekoreans-airport-rkss-gimpo\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="mymateriallibs">
-			<Type>MaterialLib</Type>
+			<Type Version="0">MaterialLib</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
@@ -28,7 +29,7 @@
 			<OutputDir>MaterialLibs\airport-rkss-gimpo\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="mymodellib">
-			<Type>ModelLib</Type>
+			<Type Version="0">ModelLib</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
@@ -36,7 +37,7 @@
 			<OutputDir>Scenery\airport-rkss-gimpo\modellib\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="scenery">
-			<Type>BGL</Type>
+			<Type Version="0">BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
