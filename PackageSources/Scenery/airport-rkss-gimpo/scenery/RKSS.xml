@@ -4,16 +4,22 @@
 		<NoShadow/>
 		<LibraryObject name="{3D1E2D33-090D-4CBD-91D5-9CF62FD30505}" scale="0.010000"/>
 	</SceneryObject>
-	<SceneryObject displayName="AirportLight_HighMast_Type2 (copy)" groupIndex="1" lat="37.55796379036767" lon="126.79829630124060" alt="0.00000000000000" pitch="0.000212" bank="-0.000212" heading="0.803278" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+	<SceneryObject displayName="AirportLight_HighMast_Type2 (copy)" groupIndex="4" lat="37.55796379036767" lon="126.79829630124060" alt="0.00000000000000" pitch="0.000212" bank="-0.000212" heading="0.803278" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{3D1E2D33-090D-4CBD-91D5-9CF62FD30505}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="Rotation Light" groupIndex="2" lat="37.56055478859113" lon="126.79920816374735" alt="17.25817194601303" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+	<SceneryObject displayName="Rotation Light" groupIndex="5" lat="37.56055478859113" lon="126.79920816374735" alt="17.25817194601303" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
 		<LibraryObject name="{7CF03D9D-138E-4F8B-99FF-87EE1715E385}" scale="1.000000"/>
 	</SceneryObject>
-	<SceneryObject displayName="terminal" groupIndex="3" lat="37.55784306201580" lon="126.79836126988147" alt="0.00000000000000" pitch="0.000027" bank="-0.000027" heading="-179.999991" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{A7EBD46F-EF6D-4068-9FC5-3564A1257162}" scale="10.000000"/>
+	<SceneryObject displayName="RJTT_131_gate1" groupIndex="1" lat="37.55898820164258" lon="126.80191800170097" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{896A0DCB-9565-4D73-8252-C058525B3EBB}" scale="1.000000"/>
 	</SceneryObject>
-	<Polygon version="0.5.0" displayName="no vegetation" groupIndex="4" altitude="11.26806640625000">
+	<SceneryObject displayName="RJTT_131_gate2" groupIndex="2" lat="37.55915419401422" lon="126.80186106329360" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{70BCFB97-E7AE-40A2-B7C4-8E4A419736FD}" scale="1.000000"/>
+	</SceneryObject>
+	<SceneryObject displayName="terminal" groupIndex="3" lat="37.55868193754157" lon="126.80285980867474" alt="0.00000000000000" pitch="0.002514" bank="0.002466" heading="-134.799985" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{A7EBD46F-EF6D-4068-9FC5-3564A1257162}" scale="1.000000"/>
+	</SceneryObject>
+	<Polygon version="0.5.0" displayName="no vegetation" groupIndex="6" altitude="11.26806640625000">
 		<Attribute name="UniqueGUID" guid="{359C73E8-06BE-4FB2-ABCB-EC942F7761D0}" type="GUID" value="{0B21B92F-1DAE-446D-A865-00B9BB566F7F}"/>
 		<Attribute name="VegetationScale" guid="{6A043F59-E6F2-4117-A2E4-D510E7317C29}" type="UINT32" value="0"/>
 		<Attribute name="VegetationDensity" guid="{41EFF715-C392-4B31-A457-50A504353A90}" type="UINT32" value="0"/>
@@ -45,8 +51,8 @@
 		<Vertex lat="37.56577804843142" lon="126.78935953880035"/>
 		<Vertex lat="37.56915945471143" lon="126.78488366800222"/>
 	</Polygon>
-	<Rectangle groupIndex="5" width="428.632568" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" precision="TRUE" latitude="37.55707109707804" longitude="126.80318906652771" altitude="17.54490751400590" latitude2="37.56087834805754" longitude2="126.80318908993058" altitude2="17.54674381855875"/>
-	<Airport groupIndex="6" groupID="1" groupGenerated="FALSE" country="TT:AIRPORTLR.RKSS.country" city="TT:AIRPORTLR.RKSS.city" name="TT:AIRPORTLR.RKSS.name" ident="RKSS" lat="37.55694441497326" lon="126.79749995470047" alt="11.81100000000000" magvar="7.600000" trafficScalar="0.698039" airportTestRadius="2853.89139277137610" applyFlatten="TRUE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE">
+	<Rectangle groupIndex="7" width="428.632568" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" precision="TRUE" latitude="37.55707109707804" longitude="126.80318906652771" altitude="17.54490751400590" latitude2="37.56087834805754" longitude2="126.80318908993058" altitude2="17.54674381855875"/>
+	<Airport groupIndex="8" groupID="1" groupGenerated="FALSE" country="TT:AIRPORTLR.RKSS.country" city="TT:AIRPORTLR.RKSS.city" name="TT:AIRPORTLR.RKSS.name" ident="RKSS" lat="37.55694441497326" lon="126.79749995470047" alt="11.81100000000000" magvar="7.600000" trafficScalar="0.698039" airportTestRadius="2853.89139277137610" applyFlatten="TRUE" isOnTIN="FALSE" tinColorCorrection="TRUE" starAirport="TRUE">
 		<AirportArchetype/>
 		<Group displayName="Runway" parentGroupID="1" groupIndex="8" groupID="2" groupGenerated="FALSE"/>
 		<Group displayName="Taxipoint" parentGroupID="1" groupIndex="4" groupID="3" groupGenerated="FALSE"/>
@@ -1173,8 +1179,8 @@
 		<TaxiwayPath parentGroupID="5" groupIndex="14" type="PARKING" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" centerLine="FALSE" start="919" end="907" width="25.000000" weightLimit="500000" name="0" drawSurface="FALSE" drawDetail="FALSE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath parentGroupID="5" groupIndex="7" type="PARKING" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" centerLine="FALSE" start="923" end="908" width="18.797001" weightLimit="500000" name="0" drawSurface="FALSE" drawDetail="FALSE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath parentGroupID="5" groupIndex="8" type="PARKING" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" centerLine="FALSE" start="170" end="909" width="25.000000" weightLimit="500000" name="0" drawSurface="FALSE" drawDetail="FALSE" groundMerging="FALSE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath parentGroupID="5" groupIndex="47" type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="913" end="912" width="30.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath parentGroupID="5" groupIndex="49" type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="913" end="912" width="30.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath parentGroupID="5" groupIndex="47" type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="913" end="912" width="30.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath parentGroupID="5" groupIndex="1" type="PARKING" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" centerLine="TRUE" start="920" end="926" width="20.830000" weightLimit="500000" name="0" drawSurface="FALSE" drawDetail="FALSE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath parentGroupID="5" type="PARKING" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" centerLine="TRUE" start="928" end="927" width="20.830000" weightLimit="500000" name="0" drawSurface="FALSE" drawDetail="FALSE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath parentGroupID="5" groupIndex="173" type="PATH" surface="{B008C78F-E00D-4776-9AFB-3842E7C0D02F}" centerLine="TRUE" enhanced="TRUE" start="257" end="256" width="25.000000" weightLimit="500000" name="0" drawSurface="FALSE" drawDetail="FALSE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
@@ -2372,11 +2378,11 @@
 			</SceneryObject>
 		</Jetway>
 		<Jetway gateName="GATE" parkingNumber="16" suffix="NONE">
-			<SceneryObject lat="37.55928732454777" lon="126.80166140198708" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-85.479126" imageComplexity="DENSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
-				<SimObject containerTitle="ASO_Jetway" scale="1.000000"/>
+			<SceneryObject lat="37.55908123068757" lon="126.80164745540858" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="0.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+				<SimObject containerTitle="RJTT_Jetway_01" scale="1.000000"/>
 			</SceneryObject>
-			<SceneryObject displayName="Jetway_Link" lat="37.55946770310402" lon="126.80188760161400" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-45.126343" imageComplexity="DENSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
-				<LibraryObject name="{43D4E862-3C41-4E16-802C-75CF609A74C2}" scale="1.000000"/>
+			<SceneryObject displayName="Boarding_Ramp_Tall_Glass_Little" lat="37.55908613409634" lon="126.80166425851255" alt="-4.03000936138646" pitch="0.000212" bank="-10.000005" heading="179.999964" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="FALSE" snapToNormal="FALSE">
+				<LibraryObject name="{3FC095B3-7AA6-478E-8099-02C8558B4F8F}" scale="1.000000"/>
 			</SceneryObject>
 		</Jetway>
 		<Jetway gateName="GATE" parkingNumber="14" suffix="NONE">
@@ -2471,7 +2477,7 @@
 			<SceneryObject lat="37.55822296860023" lon="126.80255661420939" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-80.551775" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 				<SimObject containerTitle="ASO_Jetway" scale="1.000000"/>
 			</SceneryObject>
-			<SceneryObject displayName="Jetway_Link" lat="37.55828881621400" lon="126.80275888504353" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-16.133433" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<SceneryObject displayName="Jetway_Link" lat="37.55828881620612" lon="126.80280382202633" alt="0.00000000000000" pitch="0.103013" bank="0.355901" heading="-16.133194" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 				<LibraryObject name="{43D4E862-3C41-4E16-802C-75CF609A74C2}" scale="1.000000"/>
 			</SceneryObject>
 		</Jetway>
@@ -2479,7 +2485,7 @@
 			<SceneryObject lat="37.55804899028095" lon="126.80323455962349" alt="0.00000000000000" pitch="0.000014" bank="-0.000014" heading="-87.286396" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 				<SimObject containerTitle="ASO_Jetway" scale="1.000000"/>
 			</SceneryObject>
-			<SceneryObject displayName="Jetway_Link" lat="37.55810251531152" lon="126.80352933645469" alt="0.00000000000000" pitch="0.000922" bank="-0.000922" heading="8.841099" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+			<SceneryObject displayName="Jetway_Link" lat="37.55810251531094" lon="126.80352933645469" alt="0.00000000000000" pitch="-2.691648" bank="17.597415" heading="8.424710" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 				<LibraryObject name="{43D4E862-3C41-4E16-802C-75CF609A74C2}" scale="1.000000"/>
 			</SceneryObject>
 		</Jetway>
